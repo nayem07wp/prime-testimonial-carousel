@@ -1,0 +1,79 @@
+/**
+ * Admin styles for Prime Testimonial Carousel
+ */
+
+.ptcrsl-meta-table th {
+	width: 180px;
+	text-align: left;
+	padding: 12px 10px 12px 0;
+}
+
+.ptcrsl-meta-table td {
+	padding: 12px 0;
+}
+
+.ptcrsl-meta-table input[type="text"],
+.ptcrsl-meta-table input[type="url"],
+.ptcrsl-meta-table select {
+	width: 100%;
+	max-width: 400px;
+}
+
+.ptcrsl-settings-wrapper {
+	max-width: 900px;
+}
+
+.ptcrsl-settings-wrapper h2 {
+	margin-top: 30px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+.ptcrsl-shortcode-box {
+	background: #f6f7f7;
+	border: 1px solid #dcdcde;
+	border-left: 4px solid #2271b1;
+	padding: 15px 20px;
+	margin: 15px 0;
+	border-radius: 4px;
+}
+
+.ptcrsl-shortcode-box code {
+	background: #fff;
+	padding: 8px 12px;
+	display: inline-block;
+	border-radius: 3px;
+	font-size: 13px;
+	border: 1px solid #ddd;
+}
+
+.ptcrsl-shortcode-box h3 {
+	margin-top: 0;
+}
+
+.ptcrsl-param-table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 15px;
+	background: #fff;
+}
+
+.ptcrsl-param-table th,
+.ptcrsl-param-table td {
+	padding: 10px;
+	text-align: left;
+	border: 1px solid #dcdcde;
+	vertical-align: top;
+}
+
+.ptcrsl-param-table th {
+	background: #f6f7f7;
+	font-weight: 600;
+}
+
+.ptcrsl-param-table code {
+	background: #f0f0f1;
+	padding: 2px 6px;
+	border-radius: 3px;
+	font-size: 12px;
+}

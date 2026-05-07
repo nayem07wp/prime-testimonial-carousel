@@ -1,0 +1,441 @@
+# Copyright (C) 2026 nayem07
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Prime Testimonial Carousel 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/prime-testimonial-carousel\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-24T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: prime-testimonial-carousel\n"
+
+#. Plugin Name of the plugin
+msgid "Prime Testimonial Carousel"
+msgstr ""
+
+#. Description of the plugin
+msgid "A powerful, responsive testimonial carousel plugin with multiple layout options. Display beautiful customer testimonials anywhere on your site using shortcodes or Gutenberg blocks."
+msgstr ""
+
+#. Author of the plugin
+msgid "nayem07"
+msgstr ""
+
+# POST TYPE LABELS
+#: includes/class-ptcrsl-post-type.php:22
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:23
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:24
+msgid "Testimonials"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:25
+msgid "Testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:26
+msgid "Add New"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:27
+msgid "Add New Testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:28
+msgid "New Testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:29
+msgid "Edit Testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:30
+msgid "View Testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:31
+msgid "All Testimonials"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:32
+msgid "Search Testimonials"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:33
+msgid "No testimonials found."
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:34
+msgid "No testimonials found in Trash."
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:35
+msgid "Author Photo"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:36
+msgid "Set author photo"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:37
+msgid "Remove author photo"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:38
+msgid "Use as author photo"
+msgstr ""
+
+# TAXONOMY LABELS
+#: includes/class-ptcrsl-post-type.php:61
+msgctxt "taxonomy general name"
+msgid "Groups"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:62
+msgctxt "taxonomy singular name"
+msgid "Group"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:63
+msgid "Search Groups"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:64
+msgid "All Groups"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:65
+msgid "Edit Group"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:66
+msgid "Update Group"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:67
+msgid "Add New Group"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:68
+msgid "New Group Name"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:69
+msgid "Groups"
+msgstr ""
+
+# COLUMN HEADERS
+#: includes/class-ptcrsl-post-type.php:97
+msgid "Photo"
+msgstr ""
+
+#: includes/class-ptcrsl-post-type.php:99
+msgid "Rating"
+msgstr ""
+
+# ADMIN
+#: includes/class-ptcrsl-admin.php:75 includes/class-ptcrsl-admin.php:76
+msgid "Settings"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:84 includes/class-ptcrsl-admin.php:85
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:118
+msgid "Testimonial Details"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:142
+msgid "Author Name"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:146
+msgid "Author Title/Position"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:150
+msgid "Company"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:154
+msgid "Website URL"
+msgstr ""
+
+#: includes/class-ptcrsl-admin.php:161
+msgid "No Rating"
+msgstr ""
+
+#. translators: %d is the rating number
+#: includes/class-ptcrsl-admin.php:164
+msgid "%d Star"
+msgid_plural "%d Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+# SHORTCODE FRONTEND
+#: includes/class-ptcrsl-shortcode.php:92
+msgid "No testimonials found."
+msgstr ""
+
+#: includes/class-ptcrsl-shortcode.php:141
+msgid "Previous testimonial"
+msgstr ""
+
+#: includes/class-ptcrsl-shortcode.php:144
+msgid "Next testimonial"
+msgstr ""
+
+#. translators: %d is the rating
+#: includes/class-ptcrsl-shortcode.php:189
+msgid "Rating: %d out of 5"
+msgstr ""
+
+# SETTINGS PAGE
+#: templates/admin-settings.php:29
+msgid "Appearance"
+msgstr ""
+
+#: templates/admin-settings.php:32
+msgid "Primary Color"
+msgstr ""
+
+#: templates/admin-settings.php:36
+msgid "Secondary Color"
+msgstr ""
+
+#: templates/admin-settings.php:40
+msgid "Text Color"
+msgstr ""
+
+#: templates/admin-settings.php:44
+msgid "Background Color"
+msgstr ""
+
+#: templates/admin-settings.php:48
+msgid "Border Radius (px)"
+msgstr ""
+
+#: templates/admin-settings.php:54
+msgid "Performance"
+msgstr ""
+
+#: templates/admin-settings.php:57
+msgid "Lazy Load Images"
+msgstr ""
+
+#: templates/admin-settings.php:61
+msgid "Enable lazy loading for testimonial photos"
+msgstr ""
+
+# SHORTCODES DOC PAGE
+#: templates/admin-shortcodes.php:14
+msgid "Shortcode Usage"
+msgstr ""
+
+#: templates/admin-shortcodes.php:16
+msgid "Use the following shortcode to display testimonials anywhere on your site. Click any example to copy it."
+msgstr ""
+
+#: templates/admin-shortcodes.php:19
+msgid "Basic Usage"
+msgstr ""
+
+#: templates/admin-shortcodes.php:24
+msgid "Classic Carousel - 3 columns"
+msgstr ""
+
+#: templates/admin-shortcodes.php:29
+msgid "Modern Card Layout"
+msgstr ""
+
+#: templates/admin-shortcodes.php:34
+msgid "Masonry Grid (non-carousel)"
+msgstr ""
+
+#: templates/admin-shortcodes.php:39
+msgid "Filtered by Group"
+msgstr ""
+
+#: templates/admin-shortcodes.php:44
+msgid "All Parameters"
+msgstr ""
+
+#: templates/admin-shortcodes.php:50
+msgid "Parameter"
+msgstr ""
+
+#: templates/admin-shortcodes.php:51
+msgid "Default"
+msgstr ""
+
+#: templates/admin-shortcodes.php:52
+msgid "Description"
+msgstr ""
+
+#: templates/admin-shortcodes.php:56
+msgid "Options: classic, card, modern, minimal, masonry, grid"
+msgstr ""
+
+#: templates/admin-shortcodes.php:57
+msgid "Number of testimonials to display"
+msgstr ""
+
+#: templates/admin-shortcodes.php:58
+msgid "Columns on desktop (1-4)"
+msgstr ""
+
+#: templates/admin-shortcodes.php:59
+msgid "Filter by testimonial group slug"
+msgstr ""
+
+#: templates/admin-shortcodes.php:60
+msgid "Auto-advance the carousel"
+msgstr ""
+
+#: templates/admin-shortcodes.php:61
+msgid "Speed in milliseconds"
+msgstr ""
+
+#: templates/admin-shortcodes.php:62
+msgid "Loop back to the start"
+msgstr ""
+
+#: templates/admin-shortcodes.php:63
+msgid "Show navigation dots"
+msgstr ""
+
+#: templates/admin-shortcodes.php:64
+msgid "Show prev/next arrows"
+msgstr ""
+
+#: templates/admin-shortcodes.php:65
+msgid "Show star ratings"
+msgstr ""
+
+#: templates/admin-shortcodes.php:66
+msgid "Show author photos"
+msgstr ""
+
+#: templates/admin-shortcodes.php:67
+msgid "Show decorative quote icon"
+msgstr ""
+
+#: templates/admin-shortcodes.php:68
+msgid "Sort direction (ASC or DESC)"
+msgstr ""
+
+#: templates/admin-shortcodes.php:69
+msgid "Options: date, title, menu_order, rand"
+msgstr ""
+
+#: templates/admin-shortcodes.php:70
+msgid "Comma-separated post IDs to include specific testimonials"
+msgstr ""
+
+# GUTENBERG BLOCK
+#: assets/js/block.js:16
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: assets/js/block.js:17
+msgid "Display a responsive testimonial carousel."
+msgstr ""
+
+#: assets/js/block.js:21
+msgid "testimonial"
+msgstr ""
+
+#: assets/js/block.js:22
+msgid "carousel"
+msgstr ""
+
+#: assets/js/block.js:23
+msgid "slider"
+msgstr ""
+
+#: assets/js/block.js:31
+msgid "Layout"
+msgstr ""
+
+#: assets/js/block.js:33
+msgid "Layout Style"
+msgstr ""
+
+#: assets/js/block.js:36
+msgid "Classic"
+msgstr ""
+
+#: assets/js/block.js:37
+msgid "Card"
+msgstr ""
+
+#: assets/js/block.js:38
+msgid "Modern"
+msgstr ""
+
+#: assets/js/block.js:39
+msgid "Minimal"
+msgstr ""
+
+#: assets/js/block.js:40
+msgid "Masonry"
+msgstr ""
+
+#: assets/js/block.js:41
+msgid "Grid"
+msgstr ""
+
+#: assets/js/block.js:46
+msgid "Columns"
+msgstr ""
+
+#: assets/js/block.js:52
+msgid "Number of Testimonials"
+msgstr ""
+
+#: assets/js/block.js:58
+msgid "Group Slug (optional)"
+msgstr ""
+
+#: assets/js/block.js:64
+msgid "Behavior"
+msgstr ""
+
+#: assets/js/block.js:66
+msgid "Autoplay"
+msgstr ""
+
+#: assets/js/block.js:71
+msgid "Show Arrows"
+msgstr ""
+
+#: assets/js/block.js:76
+msgid "Show Dots"
+msgstr ""
+
+#: assets/js/block.js:81
+msgid "Display"
+msgstr ""
+
+#: assets/js/block.js:83
+msgid "Show Author Photo"
+msgstr ""
+
+#: assets/js/block.js:88
+msgid "Show Rating"
+msgstr ""
